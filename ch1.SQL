@@ -17,3 +17,9 @@ VALUES(563, 'Amrit', 12000, 'amrit@exmaple.com'),
 (555, 'Lucky', 13620, 'lucky@didi.com');
 -- Here we have learnt to create a Database and add data in it.
 
+SELECT Emp_name FROM collection;
+-- It is to get Name of employees.
+
+SELECT Basic_salary FROM collection
+ORDER BY ASC;
+--Here I want to arrenge salary from Ascending to descending.
