@@ -20,6 +20,6 @@ VALUES(563, 'Amrit', 12000, 'amrit@exmaple.com'),
 SELECT Emp_name FROM collection;
 -- It is to get Name of employees.
 
-SELECT Basic_salary FROM collection
+
 ORDER BY Basic_salary ASC;
 --Here I want to arrenge salary from Ascending to descending.
